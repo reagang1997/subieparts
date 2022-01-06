@@ -1,0 +1,35 @@
+#top-nav-container{
+    width: 100%;
+}
+
+#top-nav{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
+
+#logo-name{
+    margin-top: 50px;
+}
+
+.search-bar{
+    width: 80%;
+    margin: auto;
+    margin-top: 53px;
+}
+.wrx-bar{
+    background: black;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    position: relative;
+}
+.main-nav-icon-btn{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    margin-top: 42px
+};
